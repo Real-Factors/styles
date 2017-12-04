@@ -5,3 +5,8 @@
 .hidden {
 	display: none;
 }
+
+.react-grid-HeaderCell,
+.react-grid-Cell {
+	width: 120px;
+}
