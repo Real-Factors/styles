@@ -9,5 +9,4 @@
 .react-grid-HeaderCell,
 .react-grid-Cell {
 	width: auto;
-	overflow-wrap: break-word;
 }
